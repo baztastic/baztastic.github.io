@@ -41,19 +41,60 @@ subtitle: Hi! I'm a Data Scientist, currently looking for a job in the Toronto a
 ---
 ## Featured Projects
 
-
-(Coming soon!)
+### UNDER CONSTRUCTION
 Check out some featured past projects below:
 
-  1. Interactive time-series data analysis
-  * Languages: R, HTML, CSS, PostgreSQL
-  * Tools: shiny, dplyr, ggplot2
-  * Under the hood: [source](https://github.com/baztastic/trafodata), hosted on Google Cloud Platform
-  1. Event detection, clustering, and cost estimation for electrical power grids
-  * Languages: R, SQL, Python
-  * Tools: dplyr, k-means, tensorflow, ggplot2
-  * Under the hood: [writeup](https://baztastic.github.io/nilm), source and technology sealed under patent application
-  1. Real-time sensor data analysis and UI
+## Interactive time-series data analysis
+
+<div class="row">
+  <div class="col-md-4" markdown="1">
+  - *Languages*: 
+    + R
+    + SQL
+    + HTML
+    + CSS
+  - *Tools*: 
+    + shiny
+    + dplyr
+    + ggplot2
+    + dygraphs
+    + PostgreSQL
+  - *Info*: 
+    + [More details](trafodata)
+    + [Source](https://github.com/baztastic/trafodata)
+    + Hosted on Google Cloud Platform
+  </div>
+  <div class="col-md-7" markdown="1">
+  Click image for interactive demo
+  [![Interactive time-series data analysis](img/ea-demo.png)](#<!-- http://35.208.44.159:3838/ -->)
+  </div>
+</div>
+
+## Event detection, clustering, and cost estimation for electrical power grids
+
+<div class="row">
+  <div class="col-md-4" markdown="1">
+  - *Languages*: 
+    + R
+    + Python
+    + SQL
+  - *Tools*: 
+    + dplyr
+    + k-means
+    + tensorflow
+    + ggplot2
+  - *Info*: 
+    + [More details](nilm)
+    + Source sealed under patent application
+  </div>
+  <div class="col-md-7" markdown="1">
+  Click image for interactive demo
+  [![Event detection](img/nilm-demo.png)](#)
+  </div>
+</div>
+
+
+<!--   1. Real-time sensor data analysis and UI
   * Languages: Python, C
   * Tools: pyserial, matplotlib
   * Under the hood: [source](https://github.com/baztastic/vreader), [writeup](https://baztastic.github.io/vreader), technology sealed under patent application
@@ -64,4 +105,4 @@ Check out some featured past projects below:
   1. Quantum mechanical simulation of scanning tunneling microscope
   * Languages: C, LaTeX
   * Tools: first principles model based on Green's functions
-  * Under the hood: [source](https://github.com/baztastic/stm), [writeup](https://baztastic.github.io/stm)
+  * Under the hood: [source](https://github.com/baztastic/stm), [writeup](https://baztastic.github.io/stm) -->
