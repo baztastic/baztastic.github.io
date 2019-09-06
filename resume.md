@@ -17,7 +17,7 @@ subtitle: <!---->
   [barryemurphy3@gmail.com](mailto:barryemurphy3@gmail.com)
   </div>
   <div class="col-md-6" markdown="1">
-##### Areas of interest include:  
+#### Areas of interest include:  
   - Energy
   - New Technology
   - Machine Learning
@@ -30,7 +30,19 @@ subtitle: <!---->
 </div>
 
 ---
+## Summary
+- PhD in Physics & 6 years’ postdoctoral experience in **data science** in the energy field
+- Excellent knowledge of **Python**, **SQL**, and **R**
+- Business development – founded and led a team to discover and solve real business problems
+- Broad knowledge – devised and implemented commercialization projects for several industries
+- Fundraising – raised over **$6M** in research funding and **$1.5M** in innovation funding
+- Innovation – 3 patent applications currently under review
+- Public speaking – over 10 **international** presentations at scientific conferences
+- Technical writing – co-author or main author on 20 peer-reviewed publications in top journals
+- Leadership – supervised 3 junior staff on innovation projects
+- Entrepreneurship – shortlisted for national and international innovation **awards**
 
+---
 ## Work Experience
 
 **Chief Data Scientist, CEO, Founder**  
@@ -63,7 +75,7 @@ November 2013 – August 2019
 
 #### Programming Languages
 - *Advanced*: **Python**, **SQL**, **R**, HTML, CSS, Excel
-- *Experienced*: 	C, Mathematica/Matlab, Scikit-Learn
+- *Experienced*: 	C, Mathematica, Matlab, Scikit-Learn
 - *Intermediate*: 	C++, Hadoop & Spark platforms, Javascript, TensorFlow
 
 #### Technical Skills
@@ -102,7 +114,7 @@ November 2013 – August 2019
 *Trinity College Dublin, Ireland*  
 2005 – 2009
 
-##### Undergraduate Modules:
+#### Selected Undergraduate Modules:
 <div class="row">
   <div class="col-md-4" markdown="1">
   - Numerical simulation
@@ -117,9 +129,31 @@ November 2013 – August 2019
   <div class="col-md-4" markdown="1">
   - Python programming
   - Regression
-  - Mathematical modeling
+  - Mathematical models
   </div>
 </div>
+
+---
+## Awards & Honours  
+#### Finalist in Innovation Competitions
+- ESB *Spark of Genius 2017* (Portugal)
+- Enterprise Ireland *One to Watch 2017* (Ireland)
+- Dublin Business Innovation Centre *Futurescope One2Watch 2018* (Ireland)
+  
+#### Invited talks
+- Web Summit 2017 (Portugal)
+- “Commercializing Research: Spin-out Company Success Stories” 2017 (Kazakhstan)
+- National Sustainability Summit 2018 (Ireland)
+- National Research & Innovation Conference 2018 (Ireland)
+- “When Science Met Business” Special Event 2018 (Ireland)
+- National Power & Energy Summit 2019 (Ireland)
+- Invited speaker at Trinity College Dublin's MSc. (Energy Science) Course 2019 (Ireland)
+  
+#### Media
+  - Featured in national newspapers and national radio:
+    - [*Irish Times*](https://www.irishtimes.com/business/innovation/new-innovator-electrical-analytics-1.3161877)
+    - [*Sunday Business Post*](https://twitter.com/ea_dublin/status/1100016803315703809)
+    - [*2FM*](https://soundcloud.com/baztastic/05-friday-electrical-analytics)
 
 ---
 ## Links

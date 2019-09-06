@@ -13,21 +13,21 @@ subtitle: Hi! I'm a Data Scientist, currently looking for a job in the Toronto a
   class="btn btn-social-icon btn-linkedin" title="LinkedIn">
   <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
   <span class="sr-only">LinkedIn</span>
-  </a> LinkedIn
+  </a> LinkedIn<br>&nbsp;
   </div>
   <div class="col-md-3">
   <a href="https://github.com/baztastic"
   class="btn btn-social-icon btn-github" title="Github">
   <span class="fa fa-fw fa-github" aria-hidden="true"></span>
   <span class="sr-only">Github</span>
-  </a> Github
+  </a> Github<br>&nbsp;
   </div>
   <div class="col-md-3">
   <a href="mailto:barryemurphy3@gmail.com"
   class="btn btn-social-icon btn-google" title="Email">
   <span class="fa fa-fw fa-envelope" aria-hidden="true"></span>
   <span class="sr-only">Email</span>
-  </a> Email
+  </a> Email<br>&nbsp;
   </div>
   <div class="col-md-3">
   <a href="resume"
