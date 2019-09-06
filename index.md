@@ -33,7 +33,7 @@ subtitle: Hi! I'm a Data Scientist, currently looking for a job in the Toronto a
   <a href="resume"
   class="btn btn-social-icon btn-dropbox" title="Resume">
   <span class="fa fa-fw fa-file" aria-hidden="true">
-  </span><span class="sr-only">Email</span>
+  </span><span class="sr-only">Resume</span>
   </a> Resume
   </div>
 </div>
