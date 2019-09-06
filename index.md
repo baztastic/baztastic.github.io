@@ -4,12 +4,43 @@ title: Barry Murphy
 subtitle: Hi! I'm a Data Scientist, currently looking for a job in the Toronto area.
 ---
 
-[LinkedIn](https://www.linkedin.com/in/barryemurphy)
-[Email](mailto:barryemurphy3@gmail.com)
-[Github](https://github.com/baztastic)
+---
+## Links
 
-[Resume](resume)
-[Blog](blog)
+<div class="row">
+  <div class="col-md-3">
+  <a href="https://www.linkedin.com/in/barryemurphy"
+  class="btn btn-social-icon btn-linkedin" title="LinkedIn">
+  <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
+  <span class="sr-only">LinkedIn</span>
+  </a> LinkedIn
+  </div>
+  <div class="col-md-3">
+  <a href="https://github.com/baztastic"
+  class="btn btn-social-icon btn-github" title="Github">
+  <span class="fa fa-fw fa-github" aria-hidden="true"></span>
+  <span class="sr-only">Github</span>
+  </a> Github
+  </div>
+  <div class="col-md-3">
+  <a href="mailto:barryemurphy3@gmail.com"
+  class="btn btn-social-icon btn-google" title="Email">
+  <span class="fa fa-fw fa-envelope" aria-hidden="true"></span>
+  <span class="sr-only">Email</span>
+  </a> Email
+  </div>
+  <div class="col-md-3">
+  <a href="resume"
+  class="btn btn-social-icon btn-dropbox" title="Resume">
+  <span class="fa fa-fw fa-file" aria-hidden="true">
+  </span><span class="sr-only">Email</span>
+  </a> Resume
+  </div>
+</div>
+
+---
+## Featured Projects
+
 
 (Coming soon!)
 Check out some featured past projects below:

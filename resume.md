@@ -141,13 +141,9 @@ November 2013 – August 2019
   </div>
   <div class="col-md-3">
   <a href="mailto:barryemurphy3@gmail.com"
-  class="btn btn-social-icon btn-email" title="Email">
-  <span class="fa-stack fa-fw fa-fh" aria-hidden="true">
-    <i class="fa fa-square fa-stack-2x"></i>
-    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-  </span><span class="sr-only">Email</span>
-  <!-- <span class="fa fa-fw fa-envelope" aria-hidden="true"></span> -->
-  <!-- <span class="sr-only">Email</span> -->
+  class="btn btn-social-icon btn-google" title="Email">
+  <span class="fa fa-fw fa-envelope" aria-hidden="true"></span>
+  <span class="sr-only">Email</span>
   </a> Email
   </div>
 </div>
