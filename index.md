@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Barry Murphy
-subtitle: Hi! I'm a Physics PhD/entrepreneur actively seeking a data science/business analyst role in the Toronto area.
+subtitle: Hi! I'm a Data Scientist, currently looking for a job in the Toronto area.
 ---
 
 [LinkedIn](https://www.linkedin.com/in/barryemurphy)
