@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Barry Murphy
-subtitle: Hi! I'm a Data Scientist, currently looking for a job in the Toronto area.
+subtitle: Hi! I'm a Data Scientist in Toronto.<br>Reach out for opportunities!
 ---
 
 ---
@@ -13,67 +13,82 @@ subtitle: Hi! I'm a Data Scientist, currently looking for a job in the Toronto a
   class="btn btn-social-icon btn-linkedin" title="LinkedIn">
   <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
   <span class="sr-only">LinkedIn</span>
-  </a> LinkedIn<br>&nbsp;
+  </a> <a href="https://www.linkedin.com/in/barryemurphy">LinkedIn</a><br>&nbsp;
   </div>
   <div class="col-md-3">
   <a href="https://github.com/baztastic"
   class="btn btn-social-icon btn-github" title="Github">
   <span class="fa fa-fw fa-github" aria-hidden="true"></span>
   <span class="sr-only">Github</span>
-  </a> Github<br>&nbsp;
+  </a> <a href="https://github.com/baztastic">Github</a><br>&nbsp;
   </div>
   <div class="col-md-3">
   <a href="mailto:barryemurphy3@gmail.com"
   class="btn btn-social-icon btn-google" title="Email">
   <span class="fa fa-fw fa-envelope" aria-hidden="true"></span>
   <span class="sr-only">Email</span>
-  </a> Email<br>&nbsp;
+  </a> <a href="mailto:barryemurphy3@gmail.com">Email</a><br>&nbsp;
   </div>
   <div class="col-md-3">
   <a href="resume"
   class="btn btn-social-icon btn-dropbox" title="Resume">
   <span class="fa fa-fw fa-file" aria-hidden="true">
   </span><span class="sr-only">Resume</span>
-  </a> Resume
+  </a> <a href="resume">Resume</a>
   </div>
 </div>
 
 ---
 ## Featured Projects
 
-### UNDER CONSTRUCTION
+<!-- ### UNDER CONSTRUCTION
+ -->
 Check out some featured past projects below:
 
 ## Interactive time-series data analysis
+[![Interactive time-series data analysis](img/ea-demo.png)](http://demo.nanobaz.com:3838/shiny-ui/)
 
 <div class="row">
-  <div class="col-md-4" markdown="1">
-  - *Languages*: 
+  <div class="col-md-6" markdown="1">
+  I built this tool to explore time-series data streaming from custom hardware monitoring power distribution transformers out in the field. It is written from scratch in **R** using *Shiny* for the web-app elements, and *RPostgreSQL* to handle database requests. Source code is available on [github](https://github.com/baztastic/trafodata).
+
+  The demo connects to a small database with a few weeks' worth of data for two transformers. Follow the prompts to explore the features.
+
+  [**Launch**](http://demo.nanobaz.com:3838/shiny-ui/) the interactive demo.
+  </div>
+  <div class="col-md-5" markdown="1">
+### Details:  
+  - **Languages**: 
     + R
     + SQL
     + HTML
     + CSS
-  - *Tools*: 
+  - **Modules**: 
     + shiny
     + dplyr
     + ggplot2
     + dygraphs
     + PostgreSQL
-  - *Info*: 
-    + [More details](trafodata)
+  - **Info**: 
+    + [Demo](http://demo.nanobaz.com:3838/shiny-ui/)
+    + Developed for <br>[Electrical Analytics](http://www.electrical-analytics.com/)
     + [Source](https://github.com/baztastic/trafodata)
-    + Hosted on Google Cloud Platform
-  </div>
-  <div class="col-md-7" markdown="1">
-  Click image for interactive demo
-  [![Interactive time-series data analysis](img/ea-demo.png)](#<!-- http://35.208.44.159:3838/ -->)
+    + Hosted on <br>Google Cloud Platform
   </div>
 </div>
 
 ## Event detection, clustering, and cost estimation for electrical power grids
+![Event detection](img/nilm-demo.png)
 
 <div class="row">
-  <div class="col-md-4" markdown="1">
+  <div class="col-md-6" markdown="1">
+  Interactive demo coming soon.
+
+  This technology (currently under patent application) detects electrical events, categorises them, and gives suggestions on reducing cost/energy usage.
+  <!-- Click image for interactive demo -->
+  </div>
+  <div class="col-md-5" markdown="1">
+### Details:  
   - *Languages*: 
     + R
     + Python
@@ -84,12 +99,9 @@ Check out some featured past projects below:
     + tensorflow
     + ggplot2
   - *Info*: 
-    + [More details](nilm)
+    + Demo Coming Soon
+    + Developed for <br>[Electrical Analytics](http://www.electrical-analytics.com/)
     + Source sealed under patent application
-  </div>
-  <div class="col-md-7" markdown="1">
-  Click image for interactive demo
-  [![Event detection](img/nilm-demo.png)](#)
   </div>
 </div>
 
