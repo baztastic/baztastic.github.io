@@ -50,9 +50,11 @@ Check out some featured past projects below:
 
 <div class="row">
   <div class="col-md-6" markdown="1">
-  I built this tool to explore time-series data streaming from custom hardware monitoring power distribution transformers out in the field. It is written from scratch in **R** using *Shiny* for the web-app elements, and *RPostgreSQL* to handle database requests. Source code is available on [github](https://github.com/baztastic/trafodata).
+  This tool explores time-series data streaming from custom hardware monitoring power distribution transformers out in the field.
 
-  The demo connects to a small database with a few weeks' worth of data for two transformers. Follow the prompts to explore the features.
+  I wrote it from scratch in **R** using *Shiny* for the web-app elements, and *RPostgreSQL* to handle database requests. Source code is available on [github](https://github.com/baztastic/trafodata).
+
+  The demo connects to a small database with a few weeks' worth of data for two transformers.
 
   [**Launch**](http://demo.nanobaz.com:3838/shiny-ui/) the interactive demo.
   </div>
