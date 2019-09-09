@@ -43,7 +43,7 @@ subtitle: Hi! I'm a Data Scientist in Toronto.<br>Reach out for opportunities!
 
 <!-- ### UNDER CONSTRUCTION
  -->
-Check out some featured past projects below:
+Check out some featured past projects below, with more to come soon:
 
 ## Interactive time-series data analysis
 [![Interactive time-series data analysis](img/ea-demo.png)](http://demo.nanobaz.com:3838/shiny-ui/)
@@ -58,7 +58,7 @@ Check out some featured past projects below:
 
   [**Launch**](http://demo.nanobaz.com:3838/shiny-ui/) the interactive demo.
   </div>
-  <div class="col-md-5" markdown="1">
+  <div class="col-md-6" markdown="1">
 ### Details:  
   - **Languages**: 
     + R
@@ -84,12 +84,12 @@ Check out some featured past projects below:
 
 <div class="row">
   <div class="col-md-6" markdown="1">
-  Interactive demo coming soon.
+  Demo coming soon.
 
   This technology (currently under patent application) detects electrical events, categorises them, and gives suggestions on reducing cost/energy usage.
   <!-- Click image for interactive demo -->
   </div>
-  <div class="col-md-5" markdown="1">
+  <div class="col-md-6" markdown="1">
 ### Details:  
   - *Languages*: 
     + R
