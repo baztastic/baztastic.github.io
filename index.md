@@ -46,7 +46,7 @@ subtitle: Hi! I'm a Data Scientist in Toronto.<br>Reach out for opportunities!
 Check out some featured past projects below, with more to come soon:
 
 ## Interactive time-series data analysis
-[![Interactive time-series data analysis](img/ea-demo.png)](http://demo.nanobaz.com:3838/shiny-ui/)
+[![Interactive time-series data analysis](img/ea-demo.png)](http://demo.nanobaz.com/shiny/shiny-ui/)
 
 <div class="row">
   <div class="col-md-6" markdown="1">
@@ -56,7 +56,7 @@ Check out some featured past projects below, with more to come soon:
 
   The demo connects to a small database with a few weeks' worth of data for two transformers.
 
-  [**Launch**](http://demo.nanobaz.com:3838/shiny-ui/) the interactive demo.
+  [**Launch**](http://demo.nanobaz.com/shiny/shiny-ui/) the interactive demo.
   </div>
   <div class="col-md-6" markdown="1">
 ### Details:  
@@ -72,7 +72,7 @@ Check out some featured past projects below, with more to come soon:
     + dygraphs
     + PostgreSQL
   - **Info**: 
-    + [Demo](http://demo.nanobaz.com:3838/shiny-ui/)
+    + [Demo](http://demo.nanobaz.com/shiny/shiny-ui/)
     + Developed for <br>[Electrical Analytics](http://www.electrical-analytics.com/)
     + [Source](https://github.com/baztastic/trafodata)
     + Hosted on <br>Google Cloud Platform
