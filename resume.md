@@ -164,28 +164,28 @@ November 2013 – August 2019
   class="btn btn-social-icon btn-linkedin" title="LinkedIn">
   <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
   <span class="sr-only">LinkedIn</span>
-  </a> LinkedIn
+  </a> <a href="https://www.linkedin.com/in/barryemurphy">LinkedIn</a><br>&nbsp;
   </div>
   <div class="col-md-3">
   <a href="https://github.com/baztastic"
   class="btn btn-social-icon btn-github" title="Github">
   <span class="fa fa-fw fa-github" aria-hidden="true"></span>
   <span class="sr-only">Github</span>
-  </a> Github
+  </a> <a href="https://github.com/baztastic">Github</a><br>&nbsp;
   </div>
   <div class="col-md-3">
   <a href="mailto:barryemurphy3@gmail.com"
   class="btn btn-social-icon btn-google" title="Email">
   <span class="fa fa-fw fa-envelope" aria-hidden="true"></span>
   <span class="sr-only">Email</span>
-  </a> Email
+  </a> <a href="mailto:barryemurphy3@gmail.com">Email</a><br>&nbsp;
   </div>
   <div class="col-md-3">
-  <a href="../Barry_Murphy_Resume.pdf"
+  <a href="Barry_Murphy_Resume.pdf"
   class="btn btn-social-icon btn-dropbox" title="Resume">
   <span class="fa fa-fw fa-file" aria-hidden="true">
   </span><span class="sr-only">Resume</span>
-  </a> Resume (pdf)
+  </a> <a href="Barry_Murphy_Resume.pdf">Resume</a>
   </div>
 </div>
 
