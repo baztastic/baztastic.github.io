@@ -1,0 +1,133 @@
+body {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  /*background: url("https://images.unsplash.com/photo-1516912481808-3406841bd33c?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=183f2924ba5a8429441804609b2d4f61") no-repeat center / cover;*/
+}
+
+.calendar-container {
+  position: relative;
+  width: 800px;
+}
+
+.month {
+  position: relative;
+  text-align: right;
+  align-items:center;
+  height: 70px;
+  padding: 10px;
+  color: #000000;
+  text-shadow: 0 2px 2px rgba(#000, 0.2);
+  box-sizing: border-box;
+
+
+  h3 {
+    margin: 0;
+    font-weight: 500;
+  }
+}
+h2 {
+  margin: 0;
+  font-weight:700;
+  font-size:2.5em;
+}
+
+
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+  grid-gap: 10px;
+}
+
+.day {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
+  grid-gap: 0px;
+}
+
+.date {
+  font-weight:600;
+  align-items: center;
+  text-align: right;
+  font-size:30pt;
+  padding-right:2px;
+}
+
+.poly {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30px, 1fr));
+  grid-gap: 0px;
+}
+
+.dayname {
+  color: #888888;
+}
+
+.y, .q, .m {
+  padding: 0px;
+  font-size:9pt;
+}
+
+/* week_numbers */
+.day:nth-child(8n-7) {
+    color: #ff685d;
+    font-weight: 700;
+  }
+
+/* saturdays */
+.day:nth-child(8n-1) {
+    color: #aaaaaa;
+    font-weight: 700;
+  }
+/* sundays */
+.day:nth-child(8n) {
+    color: #aaaaaa;
+    font-weight: 700;
+  }
+
+.day:hover,
+.day.current {
+    background-color: #050505;
+    color: #fff !important;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.day.wknum.current,
+.day.dayname.current
+{
+    background-color: #aaaaaa;
+    color: #fff !important;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.day.wknum:hover,
+.day.dayname:hover {
+    background-color: unset;
+    font-weight: unset;
+    cursor: default;
+}
+.day.wknum:hover{
+    color: #ff685d !important;
+    font-weight:700;
+}
+.day.dayname:hover{
+    color: #888888 !important;
+}
+.day.blank:hover{
+    background-color: unset;
+    cursor: default;
+}
+
+.day.wknum.current:hover,
+.day.dayname.current:hover
+{
+    background-color: #aaaaaa;
+    color: #fff !important;
+    font-weight: 700;
+    cursor: pointer;
+}
