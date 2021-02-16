@@ -5,41 +5,17 @@ body {
   align-items: center;
   height: 100vh;
   font-family: 'Poppins', sans-serif;
-  background-color:#000000;
   /*background: url("https://images.unsplash.com/photo-1516912481808-3406841bd33c?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=183f2924ba5a8429441804609b2d4f61") no-repeat center / cover;*/
 }
 
 .calendar-container {
   position: relative;
-  width: 710px;
+  width: 800px;
 }
-
-.month {
-  position: relative;
-  text-align: right;
-  align-items:center;
-  height: 70px;
-  padding: 10px;
-  color: #ffffff;
-  text-shadow: 0 2px 2px rgba(#000, 0.2);
-  box-sizing: border-box;
-
-
-  h3 {
-    margin: 0;
-    font-weight: 500;
-  }
-}
-h2 {
-  margin: 0;
-  font-weight:700;
-  font-size:2.5em;
-}
-
 
 .calendar {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
   grid-gap: 10px;
 }
 
@@ -47,14 +23,13 @@ h2 {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
   grid-gap: 0px;
-  color: #cccccc;
 }
 
 .date {
   font-weight:600;
   align-items: center;
   text-align: right;
-  font-size:22pt;
+  font-size:30pt;
   padding-right:2px;
 }
 
@@ -64,13 +39,9 @@ h2 {
   grid-gap: 0px;
 }
 
-.dayname {
-  color: #777777;
-}
-
 .y, .q, .m {
-  padding: 0px;
-  font-size:8pt;
+  padding: 0;
+  font-size:10pt;
 }
 
 /* week_numbers */
@@ -81,17 +52,19 @@ h2 {
 
 /* saturdays */
 .day:nth-child(8n-1) {
-    color: #777777;
+    color: #aaaaaa;
+    font-weight: 700;
   }
 /* sundays */
 .day:nth-child(8n) {
-    color: #777777;
+    color: #aaaaaa;
+    font-weight: 700;
   }
 
 .day:hover,
 .day.current {
-    background-color: #cccccc;
-    color: #000 !important;
+    background-color: #050505;
+    color: #fff !important;
     font-weight: 700;
     cursor: pointer;
 }
@@ -99,8 +72,8 @@ h2 {
 .day.wknum.current,
 .day.dayname.current
 {
-    background-color: #777777;
-    color: #000 !important;
+    background-color: #aaaaaa;
+    color: #fff !important;
     font-weight: 700;
     cursor: pointer;
 }
@@ -116,54 +89,9 @@ h2 {
     font-weight:700;
 }
 .day.dayname:hover{
-    color: #777777 !important;
+    color: #000000 !important;
 }
 .day.blank:hover{
     background-color: unset;
     cursor: default;
-}
-
-.day.wknum.current:hover,
-.day.dayname.current:hover
-{
-    background-color: #777777;
-    color: #000 !important;
-    font-weight: 700;
-    cursor: pointer;
-}
-
-.darkmode
-{
-  position: relative;
-  text-align: right;
-  align-items:center;
-  height: 70px;
-  padding: 10px;
-  color: #ffffff;
-  text-shadow: 0 2px 2px rgba(#000, 0.2);
-  box-sizing: border-box;
-}
-
-a
-{
-text-decoration: none;
-margin: 0;
-font-weight:700;
-font-size:1.5em;
-}
-a:link
-{
-color:#aaaaaa;
-}
-a:visited
-{
-color:#aaaaaa;
-}
-a:hover
-{
-color:#ffffff;
-}
-a:active
-{
-color:#cccccc;
 }

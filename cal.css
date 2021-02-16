@@ -10,7 +10,7 @@ body {
 
 .calendar-container {
   position: relative;
-  width: 800px;
+  width: 710px;
 }
 
 .month {
@@ -38,7 +38,7 @@ h2 {
 
 .calendar {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
   grid-gap: 10px;
 }
 
@@ -52,7 +52,7 @@ h2 {
   font-weight:600;
   align-items: center;
   text-align: right;
-  font-size:30pt;
+  font-size:22pt;
   padding-right:2px;
 }
 
@@ -64,7 +64,7 @@ h2 {
 
 .y, .q, .m {
   padding: 0px;
-  font-size:9pt;
+  font-size:8pt;
 }
 
 /* week_numbers */
