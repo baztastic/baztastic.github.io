@@ -3,8 +3,32 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
-<title>Test</title>
+<title>Polycalendar</title>
 <link href="cal.css" rel="stylesheet"/>
+<link href="favicon.ico" rel="icon" type="image/png"/>
+<script>
+    function changeCSS() {
+
+        var oldlink = document.getElementsByTagName("link").item(0);
+        var light = "cal.css";
+        var dark = "cal_dark.css";
+        var newlink = document.createElement("link");
+
+        if (oldlink.href.split("/")[oldlink.href.split("/").length-1] == light) {
+            newlink.setAttribute("rel", "stylesheet");
+            newlink.setAttribute("type", "text/css");
+            newlink.setAttribute("href", dark);
+            document.getElementById("modeswitch").text = "Light"
+        }
+        else {
+            newlink.setAttribute("rel", "stylesheet");
+            newlink.setAttribute("type", "text/css");
+            newlink.setAttribute("href", light);
+            document.getElementById("modeswitch").text = "Dark"
+        }
+        document.getElementsByTagName("head").item(0).replaceChild(newlink, oldlink);
+    }
+    </script>
 </head>
 <body>
 <div class="calendar-container">
@@ -66,6 +90,9 @@
 <div class="day blank" id="d55"><div class="date"></div><div class="poly"><div class="y"></div><div class="q"></div><div class="m"></div></div></div>
 <div class="day blank" id="d56"><div class="date"></div><div class="poly"><div class="y"></div><div class="q"></div><div class="m"></div></div></div>
 <div class="day blank" id="d57"><div class="date"></div><div class="poly"><div class="y"></div><div class="q"></div><div class="m"></div></div></div>
+</div>
+<div class="darkmode">
+<a href="#" id="modeswitch" onclick="changeCSS();">Dark</a>
 </div>
 </div>
 </body>
