@@ -51,12 +51,12 @@ July 2021 - Present
 **Senior Data Analyst**  
 November 2019 - July 2021  
 *Capital One, Toronto, ON, Canada*  
-
+  >[Capital One](https://www.capitalone.ca/) is a Fortune 500 company that has been helping Canadians succeed with credit for over 20 years.
 
 **Chief Data Scientist, CEO, Founder**  
 December 2014 – August 2019  
 *Electrical Analytics Technology Ltd., Ireland*  
-  >[Electrical Analytics](http://www.electrical-analytics.com) are a spinout of Trinity College Dublin, providing custom hardware and data-driven monitoring solutions for the energy industry.
+  >[Electrical Analytics](https://electrical-analytics.com/) are a spinout of Trinity College Dublin, providing custom hardware and data-driven monitoring solutions for the energy industry.
 
   - Founded and led this high-tech startup from conception through to trials with real customers
   - Built a data pipeline & analysis toolkit and user interface for power grid operators and energy users
