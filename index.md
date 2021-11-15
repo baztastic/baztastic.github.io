@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Barry Murphy
-subtitle: Hi! I'm a Data Scientist in Toronto.<br>Reach out for opportunities!
+subtitle: Hi! I'm a product-centric Data Scientist in Toronto.<br>Reach out for opportunities!
 ---
 
 ---
@@ -46,7 +46,7 @@ subtitle: Hi! I'm a Data Scientist in Toronto.<br>Reach out for opportunities!
 Check out some featured past projects below, with more to come soon:
 
 ## Interactive time-series data analysis
-[![Interactive time-series data analysis](img/ea-demo.png)](https://demo.nanobaz.com/shiny/shiny-ui/)
+[![Interactive time-series data analysis](img/ea-demo.png)]
 
 <div class="row">
   <div class="col-md-6" markdown="1">
