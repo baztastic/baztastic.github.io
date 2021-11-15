@@ -193,11 +193,11 @@ November 2013 – August 2019
   </a> <a href="mailto:barryemurphy3@gmail.com">Email</a><br>&nbsp;
   </div>
   <div class="col-md-3">
-  <a href="../Barry_Murphy_Resume.pdf"
+  <a href="/resume/"
   class="btn btn-social-icon btn-dropbox" title="Resume">
   <span class="fa fa-fw fa-file" aria-hidden="true">
   </span><span class="sr-only">Resume</span>
-  </a> <a href="../Barry_Murphy_Resume.pdf">Resume</a>
+  </a> <a href="/resume/">Resume</a>
   </div>
 </div>
 
