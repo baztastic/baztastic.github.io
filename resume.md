@@ -31,8 +31,9 @@ subtitle: <!---->
 
 ---
 ## Summary
-- PhD in Physics & 6 years’ postdoctoral experience in **data science** in the energy field
-- Excellent knowledge of **Python**, **SQL**, and **R**
+- Principal data analyst responsible for credit card mass compromise strategy & fraud operations
+- PhD in Physics & 6 years’ entrepreneurial experience in **data science** in the energy field
+- Excellent knowledge of **SQL**, **Python**, and **R**
 - Business development – founded and led a team to discover and solve real business problems
 - Broad knowledge – devised and implemented commercialization projects for several industries
 - Fundraising – raised over **$6M** in research funding and **$1.5M** in innovation funding
@@ -45,13 +46,16 @@ subtitle: <!---->
 ---
 ## Work Experience
 
-**Principal Data Analyst**
-*Capital One, Toronto, ON, Canada*
-November 2019 - Present
+**Principal Data Analyst**  
+July 2021 - Present  
+**Senior Data Analyst**  
+November 2019 - July 2021  
+*Capital One, Toronto, ON, Canada*  
+
 
 **Chief Data Scientist, CEO, Founder**  
-*Electrical Analytics Technology Ltd., Ireland*  
 December 2014 – August 2019  
+*Electrical Analytics Technology Ltd., Ireland*  
   >[Electrical Analytics](http://www.electrical-analytics.com) are a spinout of Trinity College Dublin, providing custom hardware and data-driven monitoring solutions for the energy industry.
 
   - Founded and led this high-tech startup from conception through to trials with real customers
@@ -63,8 +67,8 @@ December 2014 – August 2019
 
 
 **Postdoctoral Research Fellow, Applied Physics Research Group**  
-*Trinity College Dublin, Ireland*  
 November 2013 – August 2019  
+*Trinity College Dublin, Ireland*  
   >[Trinity College Dublin](http://www.tcd.ie/) is Ireland’s top-ranked university with a tradition of scholarship spanning more than four centuries, and is one of the top universities in Europe for innovation.
 
   - Secured $7.5M in research funding as lead proposal writer, including $265,000 as Lead Grantee
@@ -139,19 +143,23 @@ November 2013 – August 2019
 
 ---
 ## Awards & Honours  
+#### Capital One Beacon Award 2021 Q2
+- I received this award for my work on our Fraud Mass Compromise Strategy
+- Beacon is the most prestigious award in Capital One Canada, awarded every quarter
+
 #### Finalist in Innovation Competitions
+- Dublin Business Innovation Centre *Futurescope One2Watch 2018* (Ireland)
 - ESB *Spark of Genius 2017* (Portugal)
 - Enterprise Ireland *One to Watch 2017* (Ireland)
-- Dublin Business Innovation Centre *Futurescope One2Watch 2018* (Ireland)
   
 #### Invited talks
-- Web Summit 2017 (Portugal)
-- “Commercializing Research: Spin-out Company Success Stories” 2017 (Kazakhstan)
+- Invited speaker at Trinity College Dublin's MSc. (Energy Science) Course 2019 (Ireland)
+- National Power & Energy Summit 2019 (Ireland)
 - National Sustainability Summit 2018 (Ireland)
 - National Research & Innovation Conference 2018 (Ireland)
 - “When Science Met Business” Special Event 2018 (Ireland)
-- National Power & Energy Summit 2019 (Ireland)
-- Invited speaker at Trinity College Dublin's MSc. (Energy Science) Course 2019 (Ireland)
+- Web Summit 2017 (Portugal)
+- “Commercializing Research: Spin-out Company Success Stories” 2017 (Kazakhstan)
   
 #### Media
   - Featured in national newspapers and national radio:
