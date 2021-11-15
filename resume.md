@@ -45,6 +45,10 @@ subtitle: <!---->
 ---
 ## Work Experience
 
+**Principal Data Analyst**
+*Capital One, Toronto, ON, Canada*
+November 2019 - Present
+
 **Chief Data Scientist, CEO, Founder**  
 *Electrical Analytics Technology Ltd., Ireland*  
 December 2014 – August 2019  
