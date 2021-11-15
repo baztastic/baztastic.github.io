@@ -46,17 +46,13 @@ subtitle: Hi! I'm a product-centric Data Scientist in Toronto.<br>Reach out for 
 Check out some featured past projects below, with more to come soon:
 
 ## Interactive time-series data analysis
-[![Interactive time-series data analysis](img/ea-demo.png)]
+![Interactive time-series data analysis](img/ea-demo.png)
 
 <div class="row">
   <div class="col-md-6" markdown="1">
   This tool explores time-series data streaming from custom hardware monitoring power distribution transformers out in the field.
 
-  I wrote it from scratch in **R** using *Shiny* for the web-app elements, and *RPostgreSQL* to handle database requests. Source code is available on [github](https://github.com/baztastic/trafodata).
-
-  The demo connects to a small database with a few weeks' worth of data for two transformers.
-
-  [**Launch**](https://demo.nanobaz.com/shiny/shiny-ui/) the interactive demo.
+  I wrote it from scratch in **R** using *Shiny* for the web-app elements, and *RPostgreSQL* to handle database requests.
   </div>
   <div class="col-md-6" markdown="1">
 ### Details:  
@@ -72,10 +68,8 @@ Check out some featured past projects below, with more to come soon:
     + dygraphs
     + PostgreSQL
   - **Info**: 
-    + [Demo](https://demo.nanobaz.com/shiny/shiny-ui/)
     + Developed for <br>[Electrical Analytics](http://www.electrical-analytics.com/)
-    + [Source](https://github.com/baztastic/trafodata)
-    + Hosted on <br>Google Cloud Platform
+    + Source sealed
   </div>
 </div>
 
