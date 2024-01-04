@@ -31,23 +31,31 @@ subtitle: <!---->
 
 ---
 ## Summary
-- Principal data analyst responsible for credit card mass compromise strategy & fraud operations
+- Data science **people leader** and individual contributor with over 4 years' experience in combating Financial Fraud, managing Credit Risk, and Customer Acquisition
 - PhD in Physics & 6 years’ entrepreneurial experience in **data science** in the energy field
 - Excellent knowledge of **SQL**, **Python**, and **R**
 - Business development – founded and led a team to discover and solve real business problems
-- Broad knowledge – devised and implemented commercialization projects for several industries
+- Product management - developed and managed a complex hardware and software product from inception to real-world deployment
+- Project management – devised and implemented commercialization projects for several industries
 - Fundraising – raised over **$6M** in research funding and **$1.5M** in innovation funding
 - Innovation – 3 patent applications currently under review
 - Public speaking – over 10 **international** presentations at scientific conferences
 - Technical writing – co-author or main author on 20 peer-reviewed publications in top journals
-- Leadership – supervised 3 junior staff on innovation projects
+- Leadership – led teams of up to 5 technical performers while also contributing IC work
 - Entrepreneurship – shortlisted for national and international innovation **awards**
 
 ---
 ## Work Experience
 
+**Analytics Engineering Manager**  
+January 2024 - Present  
+*Wealthsimple, Toronto, ON, Canada*  
+  >[Wealthsimple](https://wealthsimple.com/) is an automated investing service that allows you to reap the benefits of a managed portfolio while still offering personalized support at low fees, trusted by over 3 million Canadians.
+
+**Data Analysis Manager**  
+January 2023 - January 2024  
 **Principal Data Analyst**  
-July 2021 - Present  
+July 2021 - January 2023
 **Senior Data Analyst**  
 November 2019 - July 2021  
 *Capital One, Toronto, ON, Canada*  
