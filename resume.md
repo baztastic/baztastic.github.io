@@ -55,7 +55,7 @@ January 2024 - Present
 **Data Analysis Manager**  
 January 2023 - January 2024  
 **Principal Data Analyst**  
-July 2021 - January 2023
+July 2021 - January 2023  
 **Senior Data Analyst**  
 November 2019 - July 2021  
 *Capital One, Toronto, ON, Canada*  
